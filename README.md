@@ -24,8 +24,8 @@ of 17.65KWh. The MRT LBM method predicted 18.84kWh, about 6.51% higher than the 
 value, indicating a better match. The two models where used to discriminate the energy consumption
 during cure. The energy required to heat up the entire autoclave body contributed over 69% of
 the energy consumption. This was followed by energy needed to compensate for heat loss which
-contributed to 28% of total energy consumption. The total energy required to heat up the composite
-- mould assembly and nitrogen gas accounted for less than 3% of the total energy consumption. This
+contributed to 28% of total energy consumption. The total energy required to heat up the composite 
+mould assembly and nitrogen gas accounted for less than 3% of the total energy consumption. This
 showed the low energy efficiency of the autoclave process. This study also investigates the influence
 of design and process parameters on autoclave energy consumption. This was achieved by varying
 selected parameters and calculating the resulting energy consumption. By doing this, parameters
