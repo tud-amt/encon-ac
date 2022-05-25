@@ -32,3 +32,4 @@ selected parameters and calculating the resulting energy consumption. By doing t
 that significantly influence the energy consumption of autoclave curing were identified. The total
 consumed energy was found to vary linearly with the loading capacity of the autoclave, as well as
 its structural size. Varying the cure cycle also led to significant variation in energy consumption.
+10.5281/zenodo.6581294
